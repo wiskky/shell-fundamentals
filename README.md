@@ -1,4 +1,4 @@
-# shell-fundamentals
+# Shell-Fundamentals
 This script Display a menu of todo with the following options:
 - View all tasks
 - Add a new task
