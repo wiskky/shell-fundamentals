@@ -33,5 +33,6 @@ Also we used `sed -i "${del_num}d" "$TODO_FILE"` command to check if the number 
 
 ![](images/view.PNG)
 
-To exit from the program, just press 4  and the program will be closed.
+To exit from the program, just press 4  and the program will be closed.  
+
 ![](images/exit.PNG)
